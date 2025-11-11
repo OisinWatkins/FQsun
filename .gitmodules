@@ -1,0 +1,3 @@
+[submodule "qoop"]
+	path = qoop
+	url = git@github.com:vutuanhai237/qoop.git
