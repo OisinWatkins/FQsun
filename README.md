@@ -12,3 +12,4 @@ The detail design can be viewed in the paper.
 ## Plan for additions:
 - Use the Qsun package to build some classic quantum circuits: Deutsch-Josza, Shor's algorithm, Simon's algorithm.
 - If those can be done easily enough, see about engineering some means of building generic circuitry: maybe something interactive, or search for some way to upload files to Qsun?
+- Also going to compare scalability and application support of Qsun against other big-name simulators
